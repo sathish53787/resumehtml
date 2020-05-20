@@ -1,0 +1,39 @@
+body{
+    padding: 50px;
+    border: 1px solid black;
+}
+h1 { 
+
+    text-align: center;
+    
+}
+
+p{
+    font-size: 20px;
+    margin-left: -10px;
+}
+
+table {
+    border: 1px solid black; 
+}
+
+td
+{
+    padding: 2px;
+    border: 1px solid #E88741;
+    font-size: 20px;
+}
+
+div {
+    border-radius: 5px;
+}
+
+li {
+    font-size: 20px;
+}
+
+pre {
+    font-family:  'Times New Roman';
+    font-size: 20px;
+}
+
